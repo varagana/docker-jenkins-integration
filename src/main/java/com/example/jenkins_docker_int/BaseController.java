@@ -13,7 +13,7 @@ public class BaseController {
 	
 	@GetMapping("/about")
 	public String greet2() {
-		return "hello2";
+		return "hello223232";
 	}
 
 }
